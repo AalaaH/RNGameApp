@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "RNGameApp",
+    "slug": "RNGameApp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "RNGameApp"
+}
